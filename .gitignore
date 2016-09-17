@@ -1,0 +1,9 @@
+# All pdf files not used
+/*.pdf
+paper_implementation/*.pdf
+
+# Sample files
+tr.R
+
+# Dataset
+data/
